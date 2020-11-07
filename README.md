@@ -41,6 +41,9 @@
     - Numpy 
 
 ## Sources:
+- Information About Representations (RAD, HJPD, etc):
+    - https://arxiv.org/pdf/1601.01006.pdf
+
 - Information About The Xbox Kinetic Sensor:
     - https://www.youtube.com/watch?v=uq9SEJxZiUg
     - https://medium.com/@lisajamhoury/understanding-kinect-v2-joints-and-coordinate-system-4f4b90b9df16
@@ -59,8 +62,6 @@
 - Information About The Dataset Used/Modifed:
     - https://wangjiangb.github.io/my_data.html
 
-- Information About Representations:
-    - https://arxiv.org/pdf/1601.01006.pdf
 
 
 
