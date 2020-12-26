@@ -21,6 +21,8 @@
     - main.py : An example of script of how to use this library.
     - reps : Where the data's representation(s) are, can be, stored.
     - tools : Where the main scripts/function and datasets are stored.
+- Actions From MSR DailyActivity 3D Dataset:
+<img width="701" alt="3" src="https://user-images.githubusercontent.com/15916367/85251734-4bf7cd00-b417-11ea-8003-de9340da3c0c.png">
 
 ## Results:
 -----------------------------------------------------------
