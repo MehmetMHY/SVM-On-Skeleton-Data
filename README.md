@@ -1,6 +1,6 @@
 # Application of SVM on RAD & HJPD Skeleton Representations to classify certain human actions
 
-<img width="300" alt="skr" src="https://user-images.githubusercontent.com/15916367/97818273-d4f10180-1c5e-11eb-9220-863301783c5c.png">
+<img width="300" alt="skr" src="./assets/kinect_skeleton.png">
 
 ## About:
 - For this project, the "MSR Daily Activity 3D Dataset" (MDA3) was used. This dataset contains 16 human activities gathered from a Xbox Kinetic sensor and stored as skeletons which are just real world, (x, y, z), cooridnate of 20 joints points on a human. To get more information about this dataset, please checkout this link: https://wangjiangb.github.io/my_data.html.
@@ -54,7 +54,7 @@
     - reps : Where the data's representation(s) are, can be, stored.
     - tools : Where the main scripts/function and datasets are stored.
 - Actions From MSR DailyActivity 3D Dataset (figure is from [HERE](https://wangjiangb.github.io/my_data.html) but was modified by CSCI473 professor to include actions' numeric id):
-<img width="701" alt="3" src="https://user-images.githubusercontent.com/15916367/85251734-4bf7cd00-b417-11ea-8003-de9340da3c0c.png">
+<img width="701" alt="3" src="./assets/MSRDA_dataset.png">
 
 ## Sources:
 - Information About Representations (RAD, HJPD, etc):
