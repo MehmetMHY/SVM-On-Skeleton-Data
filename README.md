@@ -1,4 +1,4 @@
-# Application of SVM on RAD & HJPD Skeleton Representations to classify certain human actions
+# Application of SVM on RAD & HJPD Skeleton Representations to Classify Certain Human Actions
 
 <img width="300" alt="skr" src="./assets/kinect_skeleton.png">
 
