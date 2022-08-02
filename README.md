@@ -5,6 +5,7 @@
 ## About:
 - For this project, the "MSR Daily Activity 3D Dataset" (MDA3) was used. This dataset contains 16 human activities gathered from a Xbox Kinetic sensor and stored as skeletons which are just real world, (x, y, z), cooridnate of 20 joints points on a human. To get more information about this dataset, please checkout this link: https://wangjiangb.github.io/my_data.html.
 - This project was originally created and submitted during my time as an undergraduate at the Colorado School of Mines. It was during the Spring 2020 semester and it was for Project 3 of my Human Centered Robotics (CSCI473) class. This project was designed to provide us an introduction towards machine learning in robotics though the use of Support Vector Machine(s) (SVM).
+- To view the original CSCI473 project description for this project, check out this [LINK](https://inside.mines.edu/~hzhang/Courses/CSCI473-573/Projects/Project-3-Spring2022-D3.pdf)
 - The project contains 2 main elements: representation & Classification.
 - Representation: The data is represented either in RAD and/or HJPD.
 - Classification: The representation is used with SVM, powered by LIBSVM, to create a model and predict human actions.
